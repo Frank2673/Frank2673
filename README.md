@@ -28,6 +28,7 @@
 
 | 项目 | 是什么 | 技术要点 |
 | :--- | :--- | :--- |
+| **[surface-watch](https://github.com/Frank2673/surface-watch)** ⭐ | 零依赖攻击面监控与基线差异工具：内置**授权范围强制**（拒绝未声明资产与云元数据地址），只报告变化而非全量清单 | `Node.js` `安全侦察` `DNS/TLS` `GitHub Actions` |
 | **[Frank2673.github.io](https://github.com/Frank2673/Frank2673.github.io)**<br/>[🔗 在线访问](https://frank2673.github.io/) | 个人主页：零依赖静态站，无框架、无构建步骤、无外部 CDN；含质量自检脚本与自动部署 | `HTML` `CSS` `JavaScript` `GitHub Pages` `无障碍` `SEO` |
 | **[github-dev-workflow](https://github.com/Frank2673/github-dev-workflow)** | GitHub 全流程自动化样板仓：规范提交钩子、PR 模板、仓库健康检查 CI 一次配齐 | `GitHub Actions` `Conventional Commits` `CI/CD` |
 
