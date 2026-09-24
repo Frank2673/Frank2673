@@ -28,6 +28,7 @@
 
 | 项目 | 是什么 | 技术要点 |
 | :--- | :--- | :--- |
+| **[engagement-ledger](https://github.com/Frank2673/engagement-ledger)** ⭐ | 授权凭证与防篡改审计日志：把书面授权变成**可执行的边界**，动手前逐项校验、越界即拦并留痕；哈希链日志 + 合规报告，报告里固定写明能力边界 | `Node.js` `授权与合规` `哈希链` `零依赖` |
 | **[surface-watch](https://github.com/Frank2673/surface-watch)** ⭐ | 零依赖攻击面监控与基线差异工具：内置**授权范围强制**（拒绝未声明资产与云元数据地址），只报告变化而非全量清单 | `Node.js` `安全侦察` `DNS/TLS` `GitHub Actions` |
 | **[header-forge](https://github.com/Frank2673/header-forge)** | 安全响应头配置即代码：一次声明策略，生成 5 种平台配置，**本地模拟器可自证配置有效**；CSP 顾问为内联脚本计算 hash | `安全响应头` `CSP` `配置即代码` `Node.js` |
 | **[Frank2673.github.io](https://github.com/Frank2673/Frank2673.github.io)**<br/>[🔗 在线访问](https://frank2673.github.io/) | 个人主页：零依赖静态站，无框架、无构建步骤、无外部 CDN；含质量自检脚本与自动部署 | `HTML` `CSS` `JavaScript` `GitHub Pages` `无障碍` `SEO` |
